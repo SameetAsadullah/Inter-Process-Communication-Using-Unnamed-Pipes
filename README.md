@@ -4,7 +4,7 @@
 A simple `C++ Program` to simulate `Inter-Process Communication` using `Unnamed Pipes`.
 
 ### Manual
-1) Use the following command to `Complie the Code`:
+1) Use the following command to `Compile the Code`:
     ```
     g++ main.cpp
     ```
